@@ -1,4 +1,7 @@
 /data/*
 .vscode
-/results/
+/results/sys_id
+/results/youla
+/results/observer_design
+/results/daisy_test
 /results/observer_design/state_estimates
